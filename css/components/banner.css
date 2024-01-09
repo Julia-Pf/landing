@@ -1,0 +1,17 @@
+.banner > .container > p {
+color: white;
+font-size: 2em;
+}
+
+
+h1 {
+color: white;
+font-size: 4em;
+margin: 0;
+}
+
+.banner {
+height: 600px;
+background-size: cover;
+background-position: center;
+}

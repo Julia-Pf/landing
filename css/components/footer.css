@@ -1,0 +1,17 @@
+.footer {
+  background-color: rgb(67, 57, 57);
+  text-align: center;
+  padding: 30px;
+}
+
+.footer p {
+  color: lightgrey;
+  margin: 0;
+  font-size: 1.4em;
+}
+
+.footer i {
+  font-size: 4em;
+  color: rgb(243, 34, 135);
+  padding: 15px;
+}
